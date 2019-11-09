@@ -174,3 +174,18 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.contents {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;    
+}
+
+.content {
+    width: 45%;
+}
+
+.button {
+    border: 1px solid black;
+    padding: 1%;
+}
