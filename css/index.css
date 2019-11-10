@@ -185,7 +185,18 @@ footer nav a {
     width: 45%;
 }
 
-.button {
+h4 {
+    margin-top: 18px;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
     border: 1px solid black;
-    padding: 1%;
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 1em;
+    border-radius: 5px;
+
 }
